@@ -33,7 +33,7 @@
     "pump": "^3.0.0",
     "stylelint": "^10.1.0",
     "stylelint-scss": "^3.9.0",
-    "snyk": "^1.189.0"
+    "snyk": "^1.199.1"
   },
   "devDependencies": {
     "dotenv": "^8.0.0",
